@@ -1,4 +1,0 @@
-/Library/Android/Sdk/cmake/3.18.1/bin/ninja \
-  -C \
-  /Users/rogerphilippepereira/DevEnv/Workspace/android/ImagePro/OpenCV/.cxx/Debug/531q272u/x86 \
-  opencv_jni_shared
